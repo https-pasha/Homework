@@ -7,10 +7,10 @@
 #CD to this folder using absolute path and print current directory
 	????? i don't understand what you mean 
 
-#From users home CD to ~/lab_tasks/2/example_folder using relative ....
+#From users home CD to.. using relative ....
 	
 	cd ~/lab_tasks/2/example_folder && cd -
 
-#From users home list files of ~/lab_tasks/2 using relative path
+#From users home list files of ... using relative path
 
 	cd ~/ && ls lab_tasks/2
